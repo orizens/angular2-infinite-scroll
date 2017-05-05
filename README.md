@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/orizens/angular2-infinite-scroll.svg?branch=master)](https://travis-ci.org/orizens/angular2-infinite-scroll)
 
 # DEPRECATED - Please Use The New NGX-Infinite-Scroll
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/orizens/angular2-infinite-scroll.svg)](https://greenkeeper.io/)
 [ngx-infinite-scroll](http://github.com/orizens/ngx-infinite-scroll)
 
 # Angular Infinite Scroll
